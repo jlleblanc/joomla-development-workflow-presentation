@@ -171,6 +171,10 @@ plugins/xmlrpc/index.html
 plugins/xmlrpc/joomla.php
 plugins/xmlrpc/joomla.xml
 robots.txt
-templates
+templates/beez
+templates/index.html
+templates/ja_purity
+templates/rhuk_milkyway
+templates/system
 tmp
 xmlrpc
