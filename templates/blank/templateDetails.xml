@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE install PUBLIC "-//Joomla! 1.5//DTD template 1.0//EN" "http://www.joomla.org/xml/dtd/1.5/template-install.dtd">
+<install version="1.5" type="template">
+	<name>blank</name>
+	<creationDate>5/21/10</creationDate>
+	<author>Joseph LeBlanc</author>
+	<authorEmail>contact@jlleblanc.com</authorEmail>
+	<authorUrl>http://www.jlleblanc.com</authorUrl>
+	<copyright></copyright>
+	<license>GNU/GPL</license>
+	<version>1.0</version>
+	<description>A blank template, showing only the component area</description>
+	<files>
+		<filename>index.php</filename>
+		<filename>templateDetails.xml</filename>
+		<filename>css/index.html</filename>
+		<filename>css/template.css</filename>
+	</files>
+	<positions />
+	<params />
+</install>
