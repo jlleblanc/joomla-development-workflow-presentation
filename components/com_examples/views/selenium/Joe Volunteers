@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head profile="http://selenium-ide.openqa.org/profiles/test-case">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link rel="selenium.base" href="" />
+<title>Joe Volunteers</title>
+</head>
+<body>
+<table cellpadding="1" cellspacing="1" border="1">
+<thead>
+<tr><td rowspan="1" colspan="3">Joe Volunteers</td></tr>
+</thead><tbody>
+<tr>
+	<td>open</td>
+	<td>/projects/joomla_dev_workflow/component/examples/?view=selenium</td>
+	<td></td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>name</td>
+	<td>Joseph LeBlanc</td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>address_1</td>
+	<td>415 E Bellefonte Avenue</td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>address_2</td>
+	<td>Apt C-102</td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>city</td>
+	<td>Alexandria</td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>state_or_province</td>
+	<td>Virginia</td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>postal_code</td>
+	<td>22301</td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>country</td>
+	<td>United States of America</td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>phone_number</td>
+	<td>703-493-0437</td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>email</td>
+	<td>contact@jlleblanc.com</td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>area_of_interest</td>
+	<td>Programming</td>
+</tr>
+
+</tbody></table>
+</body>
+</html>

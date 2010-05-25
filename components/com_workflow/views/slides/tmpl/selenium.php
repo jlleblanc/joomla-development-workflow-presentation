@@ -9,3 +9,5 @@
 	<li>Playback, then complete yourself</li>
 	</ul>
 </div>
+
+<a href="index.php?option=com_examples&amp;view=selenium" target="_new">Selenium IDE example</a>
