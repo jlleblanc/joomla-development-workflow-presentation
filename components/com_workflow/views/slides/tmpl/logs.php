@@ -11,6 +11,6 @@
 	&#8216;STATUS&#8217; => &#8216;A Log Message: &#8216;,
 	&#8216;COMMENT&#8217; => print_r($arrayHere, true)
 	);</li>
-	<li>$this->log->addEntry($entry);</li>
+	<li>$log->addEntry($entry);</li>
 	</ul>
 </div>
