@@ -6,6 +6,7 @@ class WorkflowHelper
 	function getOutline()
 	{
 		static $outline = array(
+			'intro' => 'Introduction',
 			'aboutme' => 'About Me',
 			'whythistalk' => 'Why this talk and how it works',
 			'liveanddev' => 'Live and Dev Sites',
