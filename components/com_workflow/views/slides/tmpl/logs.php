@@ -14,3 +14,5 @@
 	<li>$log->addEntry($entry);</li>
 	</ul>
 </div>
+
+<a href="index.php?option=com_examples&amp;view=logs" target="_new">Logging example</a>
