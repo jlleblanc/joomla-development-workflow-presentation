@@ -1,0 +1,27 @@
+[19-May-2010 18:40:47] PHP Notice:  Use of undefined constant fas - assumed 'fas' in /Users/josephleblanc/Sites/clueless_errors.php on line 3
+[19-May-2010 18:40:47] PHP Stack trace:
+[19-May-2010 18:40:47] PHP   1. {main}() /Users/josephleblanc/Sites/clueless_errors.php:0
+[19-May-2010 18:40:47] PHP Notice:  Use of undefined constant jklafskl - assumed 'jklafskl' in /Users/josephleblanc/Sites/clueless_errors.php on line 3
+[19-May-2010 18:40:47] PHP Stack trace:
+[19-May-2010 18:40:47] PHP   1. {main}() /Users/josephleblanc/Sites/clueless_errors.php:0
+[19-May-2010 18:40:47] PHP Notice:  Use of undefined constant jasfdl - assumed 'jasfdl' in /Users/josephleblanc/Sites/clueless_errors.php on line 3
+[19-May-2010 18:40:47] PHP Stack trace:
+[19-May-2010 18:40:47] PHP   1. {main}() /Users/josephleblanc/Sites/clueless_errors.php:0
+[19-May-2010 18:41:11] PHP Notice:  Use of undefined constant fas - assumed 'fas' in /Users/josephleblanc/Sites/clueless_errors.php on line 3
+[19-May-2010 18:41:11] PHP Stack trace:
+[19-May-2010 18:41:11] PHP   1. {main}() /Users/josephleblanc/Sites/clueless_errors.php:0
+[19-May-2010 18:41:11] PHP Notice:  Use of undefined constant jklafskl - assumed 'jklafskl' in /Users/josephleblanc/Sites/clueless_errors.php on line 3
+[19-May-2010 18:41:11] PHP Stack trace:
+[19-May-2010 18:41:11] PHP   1. {main}() /Users/josephleblanc/Sites/clueless_errors.php:0
+[19-May-2010 18:41:11] PHP Notice:  Use of undefined constant jasfdl - assumed 'jasfdl' in /Users/josephleblanc/Sites/clueless_errors.php on line 3
+[19-May-2010 18:41:11] PHP Stack trace:
+[19-May-2010 18:41:11] PHP   1. {main}() /Users/josephleblanc/Sites/clueless_errors.php:0
+[19-May-2010 18:41:15] PHP Notice:  Use of undefined constant fas - assumed 'fas' in /Users/josephleblanc/Sites/clueless_errors.php on line 3
+[19-May-2010 18:41:15] PHP Stack trace:
+[19-May-2010 18:41:15] PHP   1. {main}() /Users/josephleblanc/Sites/clueless_errors.php:0
+[19-May-2010 18:41:15] PHP Notice:  Use of undefined constant jklafskl - assumed 'jklafskl' in /Users/josephleblanc/Sites/clueless_errors.php on line 3
+[19-May-2010 18:41:15] PHP Stack trace:
+[19-May-2010 18:41:15] PHP   1. {main}() /Users/josephleblanc/Sites/clueless_errors.php:0
+[19-May-2010 18:41:15] PHP Notice:  Use of undefined constant jasfdl - assumed 'jasfdl' in /Users/josephleblanc/Sites/clueless_errors.php on line 3
+[19-May-2010 18:41:15] PHP Stack trace:
+[19-May-2010 18:41:15] PHP   1. {main}() /Users/josephleblanc/Sites/clueless_errors.php:0
