@@ -6,8 +6,8 @@
 	<ul>
 	<li>Relevant settings
 	<ul>
-	<li>error<em>reporting </li>
-	<li>display</em>errors</li>
+	<li>error_reporting </li>
+	<li>display_errors</li>
 	<li>error_log - (make sure web server can write it)</li>
 	</ul></li>
 	<li>Turn notices ON: E_ALL (remove &amp; ~ E_NOTICE)</li>
