@@ -10,3 +10,5 @@
 	<li>Console panel shows AJAX requests</li>
 	</ul>
 </div>
+
+<a href="index.php?option=com_examples&amp;view=firebug" target="_new">Firebug AJAX example</a>
