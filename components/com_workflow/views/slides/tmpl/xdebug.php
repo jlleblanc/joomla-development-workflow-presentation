@@ -5,8 +5,8 @@
 <div id="content">
 	<ul>
 	<li><strong>Must</strong> have server access to PECL</li>
-	<li>Profiling</li>
-	<li>Stack traces</li>
+	<li>Profiling (xdebug.profiler_enable=1 &amp; xdebug.profiler_output_dir=/some/path in php.ini)</li>
+	<li>Function stack traces</li>
 	<li>Helpful when working with unfamiliar code</li>
 	</ul>
 </div>
