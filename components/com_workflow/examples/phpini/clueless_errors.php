@@ -1,3 +1,0 @@
-<?php
-
-fas;jklafskl;jasfdl;
