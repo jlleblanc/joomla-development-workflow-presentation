@@ -11,7 +11,7 @@ class ExamplesModelXdebug extends JModel
 	{
 		if (!isset($this->data))
 		{
-			$query = "SELECT * FROM #__components";
+			$query = "SELECT * FROM #__components WHERE parent = 0";
 			$this->data = $this->_getList($query);
 		}
 
