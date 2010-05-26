@@ -1,0 +1,43 @@
+TRACE START [2010-05-26 14:17:52]
+    0.0768    7283736                       -> jimport() /Users/josephleblanc/Sites/projects/joomla_dev_workflow/components/com_examples/views/xdebug/view.html.php:6
+    0.0768    7284584                         -> FirePHP->errorHandler() /Users/josephleblanc/Sites/projects/joomla_dev_workflow/plugins/system/jfirephp/firephpcore/FirePHP.class.php:0
+    0.0768    7284632                           -> error_reporting() /Users/josephleblanc/Sites/projects/joomla_dev_workflow/plugins/system/jfirephp/firephpcore/FirePHP.class.php:347
+    0.0769    7284632                           -> error_reporting() /Users/josephleblanc/Sites/projects/joomla_dev_workflow/plugins/system/jfirephp/firephpcore/FirePHP.class.php:351
+    0.0769    7283832                         -> JLoader::import() /Users/josephleblanc/Sites/projects/joomla_dev_workflow/libraries/loader.php:186
+    0.0769    7284264                           -> dirname() /Users/josephleblanc/Sites/projects/joomla_dev_workflow/libraries/loader.php:45
+    0.0769    7284296                           -> explode() /Users/josephleblanc/Sites/projects/joomla_dev_workflow/libraries/loader.php:48
+    0.0769    7285104                           -> array_pop() /Users/josephleblanc/Sites/projects/joomla_dev_workflow/libraries/loader.php:50
+    0.0769    7285016                           -> ucfirst() /Users/josephleblanc/Sites/projects/joomla_dev_workflow/libraries/loader.php:58
+    0.0770    7285176                           -> str_replace() /Users/josephleblanc/Sites/projects/joomla_dev_workflow/libraries/loader.php:62
+    0.0770    7285200                           -> strpos() /Users/josephleblanc/Sites/projects/joomla_dev_workflow/libraries/loader.php:64
+    0.0770    7287448                           -> FirePHP->errorHandler() /Users/josephleblanc/Sites/projects/joomla_dev_workflow/plugins/system/jfirephp/firephpcore/FirePHP.class.php:0
+    0.0770    7287496                             -> error_reporting() /Users/josephleblanc/Sites/projects/joomla_dev_workflow/plugins/system/jfirephp/firephpcore/FirePHP.class.php:347
+    0.0770    7287496                             -> error_reporting() /Users/josephleblanc/Sites/projects/joomla_dev_workflow/plugins/system/jfirephp/firephpcore/FirePHP.class.php:351
+    0.0771    7286016                           -> JLoader::register() /Users/josephleblanc/Sites/projects/joomla_dev_workflow/libraries/loader.php:71
+    0.0771    7286064                             -> is_file() /Users/josephleblanc/Sites/projects/joomla_dev_workflow/libraries/loader.php:105
+    0.0771    7286056                             -> strtolower() /Users/josephleblanc/Sites/projects/joomla_dev_workflow/libraries/loader.php:108
+    0.0771    7286232                             -> phpversion() /Users/josephleblanc/Sites/projects/joomla_dev_workflow/libraries/loader.php:112
+    0.0771    7286392                             -> version_compare() /Users/josephleblanc/Sites/projects/joomla_dev_workflow/libraries/loader.php:112
+    0.0772    7286248                           -> strtolower() /Users/josephleblanc/Sites/projects/joomla_dev_workflow/libraries/loader.php:72
+    0.0772    7284312                       -> __autoload() /Users/josephleblanc/Sites/projects/joomla_dev_workflow/libraries/loader.php:0
+    0.0772    7285160                         -> FirePHP->errorHandler() /Users/josephleblanc/Sites/projects/joomla_dev_workflow/plugins/system/jfirephp/firephpcore/FirePHP.class.php:0
+    0.0772    7285208                           -> error_reporting() /Users/josephleblanc/Sites/projects/joomla_dev_workflow/plugins/system/jfirephp/firephpcore/FirePHP.class.php:347
+    0.0772    7285208                           -> error_reporting() /Users/josephleblanc/Sites/projects/joomla_dev_workflow/plugins/system/jfirephp/firephpcore/FirePHP.class.php:351
+    0.0773    7284408                         -> JLoader::load() /Users/josephleblanc/Sites/projects/joomla_dev_workflow/libraries/loader.php:161
+    0.0773    7284456                           -> strtolower() /Users/josephleblanc/Sites/projects/joomla_dev_workflow/libraries/loader.php:132
+    0.0773    7284536                           -> class_exists() /Users/josephleblanc/Sites/projects/joomla_dev_workflow/libraries/loader.php:134
+    0.0773    7285336                           -> FirePHP->errorHandler() /Users/josephleblanc/Sites/projects/joomla_dev_workflow/plugins/system/jfirephp/firephpcore/FirePHP.class.php:0
+    0.0773    7285384                             -> error_reporting() /Users/josephleblanc/Sites/projects/joomla_dev_workflow/plugins/system/jfirephp/firephpcore/FirePHP.class.php:347
+    0.0774    7285384                             -> error_reporting() /Users/josephleblanc/Sites/projects/joomla_dev_workflow/plugins/system/jfirephp/firephpcore/FirePHP.class.php:351
+    0.0774    7284584                           -> JLoader::register() /Users/josephleblanc/Sites/projects/joomla_dev_workflow/libraries/loader.php:138
+    0.0774    7284728                           -> strtolower() /Users/josephleblanc/Sites/projects/joomla_dev_workflow/libraries/loader.php:139
+    0.0774    7284808                           -> array_key_exists() /Users/josephleblanc/Sites/projects/joomla_dev_workflow/libraries/loader.php:139
+    0.0784    7447656                           -> FirePHP->errorHandler() /Users/josephleblanc/Sites/projects/joomla_dev_workflow/plugins/system/jfirephp/firephpcore/FirePHP.class.php:0
+    0.0784    7447704                             -> error_reporting() /Users/josephleblanc/Sites/projects/joomla_dev_workflow/plugins/system/jfirephp/firephpcore/FirePHP.class.php:347
+    0.0785    7447704                             -> error_reporting() /Users/josephleblanc/Sites/projects/joomla_dev_workflow/plugins/system/jfirephp/firephpcore/FirePHP.class.php:351
+    0.0785    7441848                           -> include(/Users/josephleblanc/Sites/projects/joomla_dev_workflow/libraries/joomla/application/component/view.php) /Users/josephleblanc/Sites/projects/joomla_dev_workflow/libraries/loader.php:140
+    0.0785    7441976                             -> defined() /Users/josephleblanc/Sites/projects/joomla_dev_workflow/libraries/joomla/application/component/view.php:16
+    0.0786    7454400                       -> xdebug_stop_trace() /Users/josephleblanc/Sites/projects/joomla_dev_workflow/components/com_examples/views/xdebug/view.html.php:19
+    0.0786    7454528
+TRACE END   [2010-05-26 14:17:52]
+
