@@ -1,6 +1,6 @@
 body {
-	font-family: Helvetica, sans-serif;
-	background-color: #009;
+	font-family: "Gill Sans", sans-serif;
+	background-color: #00A;
 }
 
 a {
@@ -9,8 +9,13 @@ a {
 	text-decoration: none;
 }
 
+ul {
+	list-style-type: square;
+}
+
 h1, h2 {
-	color: #F00;
+	font-family: "Trebuchet MS", "MS Trebuchet", sans-serif;
+	color: #F33;
 	font-size: 3em;
 }
 
