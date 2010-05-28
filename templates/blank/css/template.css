@@ -28,18 +28,23 @@ h1, h2 {
 .slide_arrows {
 	display: block;
 	padding: 10px;
-	border: 1px solid #999;
-	width: 20px;
+	font-weight: bold;
+	width: 40px;
 	height: 20px;
 	text-align: center;
 	float: left;
-	font-size: 1em;
+	font-size: 2em;
 }
 
 .slide_arrows a {
 	color: #DDD;
 	text-decoration: none;
 	font-size: 1em;
+}
+
+#nav {
+	position: fixed;
+	bottom: 30px;
 }
 
 pre, span.code {
