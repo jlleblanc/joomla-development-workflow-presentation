@@ -15,4 +15,6 @@
 	</ul>
 </div>
 
-<a href="index.php?option=com_examples&amp;view=logs" target="_new">Logging example</a>
+<div id="links">
+	<p><a href="index.php?option=com_examples&amp;view=logs" target="_new">Logging example</a></p>
+</div>

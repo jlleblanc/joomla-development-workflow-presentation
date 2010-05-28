@@ -11,5 +11,7 @@
 	</ul>
 </div>
 
-<p><a href="index.php?option=com_examples&amp;view=firephp" target="_new">FirePHP example</a></p>
-<p><a href="index.php?option=com_examples&amp;view=firephp&amp;format=raw" target="_new">FirePHP JSON example</a></p>
+<div id="links">
+	<p><a href="index.php?option=com_examples&amp;view=firephp" target="_new">FirePHP example</a></p>
+	<p><a href="index.php?option=com_examples&amp;view=firephp&amp;format=raw" target="_new">FirePHP JSON example</a></p>
+</div>

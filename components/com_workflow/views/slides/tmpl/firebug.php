@@ -11,4 +11,6 @@
 	</ul>
 </div>
 
-<a href="index.php?option=com_examples&amp;view=firebug" target="_new">Firebug AJAX example</a>
+<div id="links">
+	<p><a href="index.php?option=com_examples&amp;view=firebug" target="_new">Firebug AJAX example</a></p>
+</div>

@@ -10,6 +10,7 @@ a {
 }
 
 ul {
+	margin-top: 0px;
 	list-style-type: square;
 }
 
@@ -21,8 +22,14 @@ h1, h2 {
 }
 
 #content {
+	display: block;
 	color: #0F0;
 	font-size: 2em;
+	float: left;
+}
+
+#links {
+	padding-left: 30px;
 }
 
 .slide_arrows {

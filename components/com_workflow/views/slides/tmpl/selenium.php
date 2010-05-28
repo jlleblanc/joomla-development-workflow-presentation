@@ -10,4 +10,6 @@
 	</ul>
 </div>
 
-<a href="index.php?option=com_examples&amp;view=selenium" target="_new">Selenium IDE example</a>
+<div id="links">
+	<a href="index.php?option=com_examples&amp;view=selenium" target="_new">Selenium IDE example</a>
+</div>
