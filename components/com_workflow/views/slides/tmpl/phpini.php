@@ -6,12 +6,12 @@
 	<ul>
 	<li>Relevant settings
 	<ul>
-	<li>error_reporting </li>
-	<li>display_errors</li>
-	<li>error_log - (make sure web server can write it)</li>
+	<li><span class="code">error_reporting</span></li>
+	<li><span class="code">display_errors</span></li>
+	<li><span class="code">error_log</span> - (make sure web server can write it)</li>
 	</ul></li>
-	<li>Turn notices ON: E_ALL (remove &amp; ~ E_NOTICE)</li>
-	<li>If no access, use ini_set() to override at runtime</li>
+	<li>Turn notices ON: <span class="code">E_ALL</span> (remove &amp; <span class="code">~ E_NOTICE</span>)</li>
+	<li>If no access, use <span class="code">ini_set()</span> to override at runtime</li>
 	<li>Log errors (or display <strong>if</strong> on dev site)</li>
 	</ul>
 </div>

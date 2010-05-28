@@ -41,3 +41,8 @@ h1, h2 {
 	text-decoration: none;
 	font-size: 1em;
 }
+
+pre, span.code {
+	font-family: Monaco, fixed, sans-serif;
+	font-size: 0.7em;
+}
