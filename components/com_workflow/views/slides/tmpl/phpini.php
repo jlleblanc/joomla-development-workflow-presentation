@@ -21,5 +21,4 @@
 	<p><a href="<?php echo JURI::base() ?>components/com_workflow/examples/phpini/php.ini" target="_new">php.ini</a></p>
 	<p><a href="<?php echo JURI::base() ?>components/com_workflow/examples/phpini/php_error.log" target="_new">PHP Error Log example</a></p>
 	<p><a href="<?php echo JURI::base() ?>components/com_workflow/examples/phpini/notices.php" target="_new">Notices example</a></p>
-	<p><a href="<?php echo JURI::base() ?>components/com_workflow/examples/phpini/display_errors_runtime.php" target="_new">MySQL Warning Example</a></p>
 </div>
