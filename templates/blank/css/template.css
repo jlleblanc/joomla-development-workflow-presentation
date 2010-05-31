@@ -29,7 +29,8 @@ h1, h2 {
 }
 
 #links {
-	padding-left: 30px;
+	float: right;
+	padding-right: 100px;
 }
 
 .slide_arrows {
