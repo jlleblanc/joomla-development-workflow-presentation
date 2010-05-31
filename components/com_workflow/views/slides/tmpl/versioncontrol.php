@@ -1,5 +1,5 @@
 <?php defined( '_JEXEC' ) or die; ?>
-<h1>Version Control and Bug Tracking</h1>
+<h1>Version Control</h1>
 
 <div id="content">
 	<ul>
