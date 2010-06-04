@@ -5,4 +5,4 @@ This is a presentation on how to use various coding tools to help you work with 
 	$ git submodule init
 	$ git submodule update
 
-This will tell your repository to pull in the separate repository for the rhuk\_milkyway\_version\_controlled example.
+This will tell your repository to pull in the separate repository for the rhuk\_milkyway\_version\_controlled example. Once everything is checked out, copy the entire folder over a clean Joomla installation, then create a menu item pointing to the Outline view of the Workflow component. Follow this link in the frontend to start the presentation.
