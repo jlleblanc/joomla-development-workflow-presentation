@@ -17,7 +17,7 @@ class WorkflowHelper
 			'firephp' => 'FirePHP',
 			'phpini' => 'Configure php.ini to uncover errors',
 			'logs' => 'Event Logs',
-			'xdebug' => 'XDebug',
+//			'xdebug' => 'XDebug',
 			'contactinfo' => 'Contact Info',
 			'selfpromo' => 'Self Promotion'
 			);
