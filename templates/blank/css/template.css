@@ -5,7 +5,7 @@ body {
 
 a {
 	color: #FF0;
-	font-size: 2em;
+	font-size: 1.7em;
 	text-decoration: none;
 }
 
@@ -16,7 +16,7 @@ ul {
 
 h1, h2 {
 	font-family: "Trebuchet MS", "MS Trebuchet", sans-serif;
-	color: #F33;
+	color: #FFF;
 	font-size: 3em;
 	text-align: center;
 }
@@ -24,7 +24,7 @@ h1, h2 {
 #content {
 	display: block;
 	color: #0F0;
-	font-size: 2em;
+	font-size: 1.7em;
 	float: left;
 }
 
