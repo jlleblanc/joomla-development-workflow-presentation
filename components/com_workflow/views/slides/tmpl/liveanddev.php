@@ -6,5 +6,6 @@
 	<li>Absolute bare minimum!</li>
 	<li>Get hosting that makes it easy to subdomain</li>
 	<li>Copy your changes over</li>
+	<li>Also consider staging sites</li>
 	</ul>
 </div>
